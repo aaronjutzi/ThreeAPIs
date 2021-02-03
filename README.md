@@ -8,10 +8,10 @@
 <body>
 
 	<p>Google Maps Directions API: Ottawa to Montreal</p>
-	<a href="url" target="_blank">https://maps.googleapis.com/maps/api/directions/json?origin=place_id:ChIJrxNRX7IFzkwR7RXdMeFRaoo&destination=Montreal&key=AIzaSyA5a1FoKmbmQ1djPh6pRx7oiknBf3ACNOE</a>
+	<a href="url" target="_blank">https://maps.googleapis.com/maps/api/directions/json?origin=place_id:ChIJrxNRX7IFzkwR7RXdMeFRaoo&destination=Montreal&key=AIzaSyATtK2qLuQxln0V7-kx7_SrRJUQ3XcBEh4</a>
 	
 	<p>Google Maps Places API: Owen Sound</p>
-	<a href="url" target="_blank">https://maps.googleapis.com/maps/api/place/details/json?place_id=ChIJESNUhYf7KYgRA08xh5wzyIk&fields=name,rating,formatted_phone_number&key=AIzaSyA5a1FoKmbmQ1djPh6pRx7oiknBf3ACNOE</a>
+	<a href="url" target="_blank">https://maps.googleapis.com/maps/api/place/details/json?place_id=ChIJESNUhYf7KYgRA08xh5wzyIk&fields=name,rating,formatted_phone_number&key=AIzaSyATtK2qLuQxln0V7-kx7_SrRJUQ3XcBEh4</a>
 	
 </body>
 </html>
